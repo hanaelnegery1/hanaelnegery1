@@ -26,7 +26,7 @@
 
 ### 👩‍💻 About Me
 
-- Front-End Developer specializing in Angular with a strong foundation in HTML, CSS, Bootstrap,Tailwind, JavaScript, and TypeScript. Passionate about building responsive, user-friendly, and high-performance web applications while following clean code practices. Experienced in developing projects that integrate REST APIs, implement modern UI components, and deliver seamless user experiences. Currently expanding my expertise in Node.js and back-end development with the goal of becoming a Full-Stack Developer. Eager to contribute to a collaborative team, continuously learn new technologies, and build scalable, high-quality software solutions.
+- Web Developer | Front-End specializing in Angular with a strong foundation in HTML, CSS, Bootstrap,Tailwind, JavaScript, and TypeScript. Passionate about building responsive, user-friendly, and high-performance web applications while following clean code practices. Experienced in developing projects that integrate REST APIs, implement modern UI components, and deliver seamless user experiences. Currently expanding my expertise in Node.js and back-end development with the goal of becoming a Full-Stack Developer. Eager to contribute to a collaborative team, continuously learn new technologies, and build scalable, high-quality software solutions.
 
 ---
 
