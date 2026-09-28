@@ -49,8 +49,8 @@ Responsive Angular website with RTL support and reusable components.
 
 **Stack:** Angular · Bootstrap · TypeScript
 
-<a href="https://github.com/HanaMohamed01/Adasa-Website-Angular">Repo</a> ·
-<a href="https://hanamohamed01.github.io/Adasa-Website-Angular">Live Demo</a>
+<a href="https://github.com/hanaelnegery1/Adasa-Website-Angular">Repo</a> ·
+<a href="https://hanaelnegery1.github.io/Adasa-Website-Angular">Live Demo</a>
 
 
 </td>
@@ -63,8 +63,8 @@ Drag-and-drop task manager with LocalStorage persistence.
 
 **Stack:** Angular · TypeScript · Bootstrap
 
-<a href="https://github.com/HanaMohamed01/Kanban-Board-Task-Manager-Angular">Repo</a> ·
-<a href="https://hanamohamed01.github.io/Kanban-Board-Task-Manager-Angular">Live Demo</a>
+<a href="https://github.com/hanaelnegery1/Kanban-Board-Task-Manager-Angular">Repo</a> ·
+<a href="https://hanaelnegery1.github.io/Kanban-Board-Task-Manager-Angular">Live Demo</a>
 
 
 </td>
@@ -79,8 +79,8 @@ Full CRUD contact manager with client-side validation.
 
 **Stack:** HTML · CSS · Bootstrap · JavaScript
 
-<a href="https://github.com/HanaMohamed01/ContactHub-CRUD-System">Repo</a> ·
-<a href="https://hanamohamed01.github.io/ContactHub-CRUD-System">Live Demo</a>
+<a href="https://github.com/hanaelnegery1/ContactHub-CRUD-System">Repo</a> ·
+<a href="https://hanaelnegery1.github.io/ContactHub-CRUD-System">Live Demo</a>
 
 
 
@@ -92,7 +92,7 @@ Full CRUD contact manager with client-side validation.
 
 New Angular projects are always in progress — check my pinned repositories for the latest.
 
-<a href="https://github.com/HanaMohamed01?tab=repositories">See all repositories →</a>
+<a href="https://github.com/hanaelnegery1?tab=repositories">See all repositories →</a>
 
 
 
@@ -104,7 +104,7 @@ New Angular projects are always in progress — check my pinned repositories for
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanaMohamed01&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanaelnegery1&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
