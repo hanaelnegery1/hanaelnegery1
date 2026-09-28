@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Hana Mohamed Elnegery 👋</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web Developer | Frontend Developer | Angular
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+responsive+web+apps+with+Angular;Turning+designs+into+clean%2C+scalable+code;Always+learning%2C+always+building." alt="Typing SVG" />
