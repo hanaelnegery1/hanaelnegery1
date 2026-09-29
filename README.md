@@ -46,7 +46,7 @@
 
 #### 📱 SocialNetwork - Social Media Platform
 
-Responsive social media web application with user authentication, API integration, and reusable Angular components.
+Responsive social media web application with user authentication, API integration, and reusable components.
 
 **Stack:** Angular · Tailwind · TypeScript · REST APIs
 
