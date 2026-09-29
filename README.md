@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hana Mohamed Elnegery 👋</h1>
-<h3 align="center">Web Developer | Frontend Developer | Angular
+<h3 align="center">Frontend Developer | Angular
 </h3>
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 #### 📱 SocialNetwork - Social Media Platform
 
-Responsive social media web application with user authentication, API integration, and reusable components.
+Responsive social media web application with user authentication, API integration, and reusable Angular components.
 
 **Stack:** Angular · Tailwind · TypeScript · REST APIs
 
