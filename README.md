@@ -48,7 +48,7 @@
 
 Responsive social media web application with user authentication, API integration, and reusable Angular components.
 
-**Stack:** Angular · Bootstrap · TypeScript · REST APIs
+**Stack:** Angular · Tailwind · TypeScript · REST APIs
 
 <a href="https://github.com/hanaelnegery1/Social-Network-App">Repo</a> ·
 <a href="https://social-network-app.pages.dev/">Live Demo</a>
