@@ -42,17 +42,16 @@
 
 <table>
   <tr>
-    <td width="50%" height="190" align="center" valign="top">
+   <td width="50%" height="190" align="center" valign="top">
 
-#### 📸 Adasa — Photography Platform
+#### 📱 SocialNetwork - Social Media Platform
 
-Responsive Angular website with RTL support and reusable components.
+Responsive social media web application with user authentication, API integration, and reusable Angular components.
 
-**Stack:** Angular · Bootstrap · TypeScript
+**Stack:** Angular · Bootstrap · TypeScript · REST APIs
 
-<a href="https://github.com/hanaelnegery1/Adasa-Website-Angular">Repo</a> ·
-<a href="https://hanaelnegery1.github.io/Adasa-Website-Angular">Live Demo</a>
-
+<a href="https://github.com/hanaelnegery1/Social-Network-App">Repo</a> ·
+<a href="https://social-network-app.pages.dev/">Live Demo</a>
 
 </td>
 
